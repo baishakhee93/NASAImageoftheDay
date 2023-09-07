@@ -15,7 +15,8 @@ Screenshot 1
 
 Screenshot Vedio
 
-file:///home/baishakhi/Downloads/imageofthedayvedio%20(1).mp4
+
+https://github.com/baishakhee93/NASAImageoftheDay/assets/50324744/ffb21fea-9fa7-474b-ae01-e91eab351868
 
 
 
