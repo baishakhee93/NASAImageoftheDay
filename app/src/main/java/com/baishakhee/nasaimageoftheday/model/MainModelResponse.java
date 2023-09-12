@@ -27,8 +27,18 @@ public class MainModelResponse {
         @SerializedName("url")
         String url;
 
+    public MainModelResponse(String copyright, String date, String explanation, String hdurl, String mediaType, String serviceVersion, String title, String url) {
+        this.copyright = copyright;
+        this.date = date;
+        this.explanation = explanation;
+        this.hdurl = hdurl;
+        this.mediaType = mediaType;
+        this.serviceVersion = serviceVersion;
+        this.title = title;
+        this.url = url;
+    }
 
-        public void setCopyright(String copyright) {
+    public void setCopyright(String copyright) {
             this.copyright = copyright;
         }
         public String getCopyright() {
