@@ -27,7 +27,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/baishakhee93/nasa-image-of-the-day.git
+git clone git@github.com:baishakhee93/NASAImageoftheDay.git
 Open the project in Android Studio.
 
 Build and run the app on an Android emulator or device.
